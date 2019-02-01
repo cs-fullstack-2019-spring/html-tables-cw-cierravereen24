@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #cecfd5;
+    padding: 10px 15px;
+}
+
+.resize{
+    width: 15px;
+    height: 10px;
+}
